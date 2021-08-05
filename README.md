@@ -1,2 +1,2 @@
-# Lorenzo's-Italian-Restaurant
+# Lorenzo's Italian Restaurant
 Website for Italian restaurant, made with: HTML, CSS and Vanilla JavaScript
